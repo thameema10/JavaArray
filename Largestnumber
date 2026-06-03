@@ -1,9 +1,6 @@
-package June2;
+package Array;
 
 public class Largestnumber {
-
-    public Largestnumber() {
-    }
 
     public static void main(String[] args) {
 
@@ -19,5 +16,4 @@ public class Largestnumber {
 
         System.out.println("Largest Number = " + largest);
     }
-
 }
