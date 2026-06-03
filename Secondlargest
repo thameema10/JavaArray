@@ -1,6 +1,6 @@
-package June2;
+package Array;
 
-public class secondlargest {
+public class Secondlargest {
 
     public static void main(String[] args) {
 
